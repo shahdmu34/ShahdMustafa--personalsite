@@ -159,7 +159,28 @@ header{
   transform: translateY(4px);
 }
 
+.popup-btn-double{
+   
+  text-decoration: none ;
+  background-color: #FEE2BD;
 
+  color:black;
+  border-color: #d2a890;
+
+  padding: 6px 15px;
+  border-radius:  20px;
+  margin: 0 10px;
+  width:150px;
+}
+.popup-btn-double:hover{
+  background-color: #f4cd99;
+
+}
+.popup-btn-double.active{
+  background-color: #cf97b6;
+  box-shadow: 0 5px #b984a1;
+  transform: translateY(4px);
+}
 .popup .overlay{
   position:fixed;
   top:0px;
