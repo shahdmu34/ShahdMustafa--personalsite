@@ -1,5 +1,5 @@
 body{
-    background-image: url(../images/AdobeColorGradient\ gradient_the-valley-minimal-4k-9y\ \(1\).png);
+    background-image: url(../images/download\ \(1\).jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -21,7 +21,7 @@ header{
 
 .title{
     font-size: 2m;
-    color:#fff;
+    color:#F0C9AC;
     pointer-events: none;
     margin-right: 600px;
 }
@@ -29,7 +29,7 @@ header{
 
 .siteNav a{
     text-decoration: none ;
-    color: #FEE2BD;
+    color: #F0C9AC;
     padding: 6px 15px;
     border-radius:  20px;
     margin: 0 10px;
@@ -38,7 +38,7 @@ header{
 
 .siteNav a:hover,
 .siteNav a.active{
-    background: #FEE2BD;
+    background: #F0C9AC;
     color: #fff;
 
 }
@@ -66,8 +66,8 @@ header{
     padding: 1.5em;
     
     margin: 0 20px 20px 20px;
-    background-color: #FACEB5;
-    box-shadow: 0 0 5px #F8B2A8;
+    background-color: #aebfde;
+    box-shadow: 0 0 5px #7D94B3;
     border-radius: 10px;
 }
 
@@ -82,7 +82,7 @@ header{
 
 .timeline-middle{
     position: relative;
-    background: #EF9BB2;
+    background: #7D94B3;
 }
 
 .point{
@@ -92,7 +92,7 @@ header{
     transform: translateX(-50%);
     width: 15px;
     height: 15px;
-    background: #EF9BB2;
+    background: #7D94B3;
     border-radius: 50%;
 }
 
@@ -103,7 +103,7 @@ header{
     transform: translateX(-50%);
     width: 15px;
     height: 15px;
-    background: #EF9BB2;
+    background: #7D94B3;
     border-radius: 50%;
     bottom: 0;
 }
@@ -128,8 +128,8 @@ header{
 .downloadbtn {
     
     display: block;
-    background: #FACEB5;
-    color:black;
+    background: #cedbf2;
+    color:#7D94B3;
     cursor: pointer;
     padding: 12px 20px;
     text-decoration: none;
@@ -143,7 +143,7 @@ header{
 }
 
 .resume{
-    color:#F8B2A8;
+    color:#7D94B3;
     font-size: 30px;
 }
 
@@ -152,5 +152,5 @@ header{
 }
 
 .title-res{
-    color: #ad9283;
+    color: #7D94B3;
 }

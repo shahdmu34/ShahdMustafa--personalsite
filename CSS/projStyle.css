@@ -1,5 +1,5 @@
 body{
-    background-image: url(../images/AdobeColorGradient\ gradient_the-valley-minimal-4k-9y\ \(1\).png);
+    background-image: url(../images/download\ \(1\).jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -21,7 +21,7 @@ header{
 
 .title{
   font-size: 2m;
-  color:#fff;
+  color:#F0C9AC;
   pointer-events: none;
   margin-right: 600px;
 }
@@ -29,7 +29,7 @@ header{
 
 .siteNav a{
   text-decoration: none ;
-    color: #FEE2BD;
+    color: #F0C9AC;
   padding: 6px 15px;
   border-radius:  20px;
   margin: 0 10px;
@@ -38,7 +38,7 @@ header{
 
 .siteNav a:hover,
 .siteNav a.active{
-    background: #FEE2BD;
+    background: #F0C9AC;
   color: #fff;
 
 }
@@ -130,53 +130,55 @@ header{
 }
 
 
-.call-out:nth-child(1) {background-color: #FEE2BD;}
-.call-out:nth-child(2) {background-color: #FEE2BD;}
-.call-out:nth-child(3) {background-color: #FEE2BD;}
-.call-out-jav:nth-child(1){background-color: #FEE2BD;}
-.call-out-jav:nth-child(2){background-color: #FEE2BD;}
-.call-out-jav:nth-child(3){background-color: #FEE2BD;}
+.call-out:nth-child(1) {background-color: #aebfde;}
+.call-out:nth-child(2) {background-color: #aebfde;}
+.call-out:nth-child(3) {background-color: #aebfde;}
+.call-out-jav:nth-child(1){background-color: #aebfde;}
+.call-out-jav:nth-child(2){background-color: #aebfde;}
+.call-out-jav:nth-child(3){background-color: #aebfde;}
 
 
 .popup-btn{
   display: block;
-  background-color: #FEE2BD;
+  background-color: #cedbf2;
   text-decoration: none;
-  color:black;
-  border-color: #d2a890;
+  color:#7D94B3;
+  border-color: #7D94B3;
   padding: 10px 20px;
   margin: auto;
   border-radius: 20px;
 }
 
 .popup-btn:hover{
-  background-color: #f4cd99;
+  background-color: #7D94B3;
+  color: black;
    }
 
 .popup-btn.active{
-  background-color: #cf97b6;
-  box-shadow: 0 5px #b984a1;
+  background-color: #7A92B6;
+  box-shadow: 0 5px #51637e;
   transform: translateY(4px);
 }
 
 .popup-btn-double{
    
   text-decoration: none ;
-  background-color: #FEE2BD;
+  background-color: #c9dbfc;
   color:black;
-  border-color: #d2a890;
+  border-color: #c9dbfc;
   padding: 6px 15px;
   border-radius:  20px;
   margin: 0 10px;
   width:150px;
 }
 .popup-btn-double:hover{
-  background-color: #f4cd99;
+  background-color: #7D94B3;
+  color: black;
 
 }
 .popup-btn-double.active{
-  background-color: #cf97b6;
-  box-shadow: 0 5px #b984a1;
+  background-color: #7A92B6;
+  box-shadow: 0 5px #51637e;
   transform: translateY(4px);
 }
 .popup .overlay{
@@ -195,7 +197,7 @@ display: none;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) scale(0);
-  background: #fce8ce;
+  background: #c4cfe6;
   max-width: 700px;
   max-height: 600px;
   z-index: 2;
@@ -214,7 +216,7 @@ display: none;
   top:20px;
   width:30px;
   height:30px;
-  background: #222;
+  background: #51637e;
   color: #FFF;
   font-size: 25px;
   font-weight: 600;

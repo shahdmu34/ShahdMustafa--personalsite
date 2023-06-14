@@ -30,7 +30,7 @@ header{
 
 .title{
     font-size: 2m;
-    color:#FEE2BD;
+    color:#F0C9AC;
     pointer-events: none;
     margin-right: 600px;
 }
@@ -38,7 +38,7 @@ header{
 
 .siteNav a{
     text-decoration: none ;
-    color: #FEE2BD;
+    color: #F0C9AC;
     padding: 6px 15px;
     border-radius:  20px;
     margin: 0 10px;
@@ -47,7 +47,7 @@ header{
 
 .siteNav a:hover,
 .siteNav a.active{
-    background: #FEE2BD;
+    background: #F0C9AC;
     color: #fff;
 
 }
@@ -66,7 +66,7 @@ header{
 #titletext{
     position: absolute;
     font-size: 5em;
-    color:#161445;
+    color:#CE4C3C;
     text-shadow: 2px 2px 4px rgb(0,0,0,.2);
 }
 
@@ -86,7 +86,7 @@ header{
 .bio{
 
   position: absolute;
-  background: #161445 ; 
+  background: #E7D5BF ; 
   text-align: center;
   padding: 100px;
   height: 600px;
@@ -96,29 +96,31 @@ header{
 
 .bio h2{
     font-size: 3em;
-    color: #fff;
+    color: #CC6350;
     margin-bottom: 10px;
 }
 
 .bio p{
     font-size: 1em;
-    color: #fff;
+    color: black;
     font-weight: 300;
 }
   
 .links{
     
     text-decoration: none ;
-    color: #419DD0;
+    background-color: #DCC2B5;
+    color: #DD5D42;
     padding: 6px 15px;
     border-radius:  20px;
     margin: 0 10px;
     font-weight: 600;
     width:150px;
+    border-color: #DCC2B5;
     
 }
 .links:hover{
-    background-color: #f9f9f9;
-    color: #161445;
+    background-color: #ECD7C2;
+    color: #903930;
 }
 
